@@ -1,12 +1,14 @@
-# uGame_of_Life_Jakowski
-Conway's Game of Life - C++/SDL2 by Łukasz Jakowski
+# Conway's Game of Life
+
+## Controls:
+
+Left Stick: Move the cursor on the screen.
+
+Cross: Set the current cell and its adjacent cells to live.
+
+Square: Set the current cell to dead.
+
+Circle: Clear all live cells from the grid.
 
 
-Conway's Game of Life
-https://en.wikipedia.org/wiki/Conway's_Game_of_Life
-
-Author: Łukasz Jakowski
-
-WWW: http://lukaszjakowski.pl Email: jakowskidev@gmail.com
-
-Visual Studio 2012
+This payload is useless; it's just a crazy simulation...
