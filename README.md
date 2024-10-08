@@ -6,12 +6,9 @@ Left Stick: Move the cursor on the screen.
 
 Cross: Set the current cell and its adjacent cells to live.
 
-Square: Set the current cell to dead.
+Square: Draws a circle around the cursor and kills all the cells within that circle while the button is pressed.
 
 Circle: Clear all live cells from the grid.
-
-
-This payload is useless; it's just a crazy simulation...
 
 
 ## FMI:
@@ -22,4 +19,4 @@ https://en.wikipedia.org/wiki/Conway's_Game_of_Life
 
 ## Credits:
 
--J Tornblom - SDK
+- J Tornblom - SDK
