@@ -4,7 +4,7 @@
 
 Left Stick: Move the cursor on the screen.
 
-Cross: Set the current cell and its adjacent cells to live.
+Cross: Creates new cells.
 
 Square: Draws a circle around the cursor and kills all the cells within that circle while the button is pressed.
 
