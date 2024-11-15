@@ -4,19 +4,18 @@
 
 Left Stick: Move the cursor on the screen.
 
-Cross: Creates new cells (max 200).
+Cross/B: Creates new cells (max 200).
 
-Square: Draws a circle around the cursor and kills all the cells within that circle while the button is pressed.
+Square/Y: Draws a circle around the cursor and kills all the cells within that circle while the button is pressed.
 
-Circle: Clear all live cells from the grid.
+Circle/A: Clear all live cells from the grid.
 
 
 ## FMI:
-
-https://github.com/jakowskidev/uGame_of_Life_Jakowski
 
 https://en.wikipedia.org/wiki/Conway's_Game_of_Life
 
 ## Credits:
 
-- J Tornblom - SDK
+- devkitPro - SDK (Switch).
+- J. Törnblom - SDK (PS5).
